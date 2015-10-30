@@ -4,7 +4,7 @@ Dieses Repository dient der Demonstration von git.
 
 :smiley:
 
-## Ãœberschrift
+## Überschrift
 
 Test 007
 
