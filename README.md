@@ -2,6 +2,8 @@
 
 Dieses Repository dient der Demonstration von git.
 
-## Überschrift
+:smiley:
+
+## Ãœberschrift
 
 Test 12345
