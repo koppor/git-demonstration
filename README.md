@@ -12,5 +12,5 @@ Da muss man hin zu Bluemix Meetup!
 
 Bis gleich da und Unithekle ist auch schön
 
-Commit
+Das wird ein Commit
 
