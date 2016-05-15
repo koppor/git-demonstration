@@ -1,16 +1,16 @@
 # Demonstration
 
-Dieses Repository dient der Demonstration von git.
+Dieses Repository dient der Demonstration von git und GitKraken
 
 :smiley:
 
-## �berschrift
+## Überschrift
 
 Test 007
 
 Da muss man hin zu Bluemix Meetup!
 
-Bis gleich da und Unithekle ist auch sch�n
+Bis gleich da und Unithekle ist auch schön
 
 Das wird ein Commit
 
@@ -22,6 +22,6 @@ hihi next commit in new branch
 
 irgendwas
 
-Ich will mal Testen was es für Optionen für pull requests gibt !
+Ich will mal Testen was es fÃ¼r Optionen fÃ¼r pull requests gibt !
 
-Neue Zeile; bereit für 1. Merge
+Neue Zeile; bereit fÃ¼r 1. Merge
