@@ -1,6 +1,6 @@
 # Demonstration
 
-Dieses Repository dient der Demonstration von git.
+Dieses FEHLER Repository dient der Demonstration von git.
 
 :smiley:
 
