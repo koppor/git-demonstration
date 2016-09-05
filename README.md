@@ -4,6 +4,8 @@ Dieses Repository dient der Demonstration von git und GitKraken
 
 :smiley:
 
+Join the [Microsoft Hackathon](https://www.microsoft.com/de-de/aktionen/hackathon/)
+
 ## Überschrift
 
 Test 007
