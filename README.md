@@ -7,6 +7,8 @@ Dieses Repository dient der Demonstration von git und GitKraken
 
 :smiley:
 
+Join the [Microsoft Hackathon](https://www.microsoft.com/de-de/aktionen/hackathon/)
+
 ## Überschrift
 
 Test 007
@@ -28,3 +30,9 @@ irgendwas
 Ich will mal Testen was es fÃ¼r Optionen fÃ¼r pull requests gibt !
 
 Neue Zeile; bereit fÃ¼r 1. Merge
+
+### erstmal testen
+
+dfghjkl
+
+LINUX 4 EVER
