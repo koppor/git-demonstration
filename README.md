@@ -13,10 +13,6 @@ Join the [Microsoft Hackathon](https://www.microsoft.com/de-de/aktionen/hackatho
 
 ## Überschrift
 
-neue Überschrift
-Test123
-2x2 macht 3
-
 Test 007
 
 Da muss man hin zu Bluemix Meetup!
