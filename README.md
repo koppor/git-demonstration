@@ -27,9 +27,9 @@ hihi next commit in new branch
 
 irgendwas
 
-Ich will mal Testen was es fÃ¼r Optionen fÃ¼r pull requests gibt !
+Ich will mal Testen was es für Optionen für pull requests gibt !
 
-Neue Zeile; bereit fÃ¼r 1. Merge
+Neue Zeile; bereit für 1. Merge
 
 ### erstmal testen
 
