@@ -33,6 +33,10 @@ Ich will mal Testen was es fÃ¼r Optionen fÃ¼r pull requests gibt !
 
 Neue Zeile; bereit fÃ¼r 1. Merge
 
+Schöne neue UTF-8-Welt
+
+Und hier noch eine Zeile
+
 ### erstmal testen
 
 dfghjkl
