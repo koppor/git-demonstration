@@ -29,16 +29,4 @@ hihi next commit in new branch
 
 irgendwas
 
-Ich will mal Testen was es für Optionen für pull requests gibt !
-
-Neue Zeile; bereit für 1. Merge
-
-Schöne neue UTF-8-Welt
-
-Und hier noch eine Zeile
-
-### erstmal testen
-
-dfghjkl
-
-LINUX 4 EVER
+...Text...
