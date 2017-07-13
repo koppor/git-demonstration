@@ -1,6 +1,6 @@
 # Demonstration
 
-Dieses Repository dient der Demonstration von git und [GitKraken](https://www.gitkraken.com/).
+Dieses Repository dient der Demonstration von git <s>und [GitKraken](https://www.gitkraken.com/)</s>.
 
 :smiley:
 
